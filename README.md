@@ -32,7 +32,6 @@ O Estudo.IA é intuitivo e fácil de usar. Siga os passos abaixo para começar a
 
 1.  **Acesse a Aplicação:** Visite o Estudo.IA ao vivo através do GitHub Pages:
     * [**Acesse o Estudo.IA AQUI!**](https://jonjonesbr.github.io/Estudo.IA/web-app/)
-    * *(Caso você tenha configurado em outro subdiretório ou na raiz, ajuste este link)*
 
 2.  **Obtenha sua Chave API do Google Gemini:**
     * Para que a IA funcione, você precisará de uma chave da API do Google Gemini.
